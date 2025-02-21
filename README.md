@@ -4,4 +4,4 @@
 
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=BLACKSHARKPLAYBT&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default"/>
 
-<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKSHARKPLAYBT&locale=cn&line_height=33&theme=dark&langs_count=5&layout=donut"/>
+<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLACKSHARKPLAYBT&locale=cn&line_height=33&theme=dark&langs_count=20"/>
